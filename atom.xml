@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Blue Palo Alto]]></title>
+  <link href="http://bluepaloalto.github.io/atom.xml" rel="self"/>
+  <link href="http://bluepaloalto.github.io/"/>
+  <updated>2014-12-19T07:06:48-08:00</updated>
+  <id>http://bluepaloalto.github.io/</id>
+  <author>
+    <name><![CDATA[Mark L. Fussell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
