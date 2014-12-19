@@ -4,7 +4,7 @@
   <title><![CDATA[Blue Palo Alto]]></title>
   <link href="http://bluepaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://bluepaloalto.github.io/"/>
-  <updated>2014-12-19T07:07:16-08:00</updated>
+  <updated>2014-12-19T14:47:48-08:00</updated>
   <id>http://bluepaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark L. Fussell]]></name>
@@ -12,5 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Site Launch!]]></title>
+    <link href="http://bluepaloalto.github.io/blog/site-launch/"/>
+    <updated>2014-12-19T15:17:00-08:00</updated>
+    <id>http://bluepaloalto.github.io/blog/site-launch</id>
+    <content type="html"><![CDATA[<p>Yesterday I visited <a href="http://BluHomes.com/">http://BluHomes.com/</a>&rsquo;s factory and sample house in Vallejo.  Basically this was the culmination of an idea / venture that
+was brewing in my head.  With this blog, I will start describing the venture / opportunity for investors to consider and also
+as a real-time example of a &lsquo;hyper-startup&rsquo;: a startup executing so fast and furiously that it will make more money than
+anyone could imagine in less time and with fewer people than seems possible.</p>
+
+<p>It will seem &ldquo;inconceivable&rdquo;: please watch the Princess Bride to truly understand that word.</p>
+
+<h2>Who am I?</h2>
+
+<p>I am a serial entrepreneur that got incredibly good at executing startups.  To the point where I can launch companies
+with internal IT (e.g. email, shares, etc.) and production IT (think Google or Apple servers) and startup-specific
+functionality.  After doing the tenth of these startups, I stopped and went on to other things.  Now I am primarily
+a software patent expert and help companies like Apple, HP, and Hughes either make or not lose a lot of money.  I am
+pretty efficient and effective at this, so I also have a lot of free time to help other people out.  So in total, to
+get to know me better see the following:</p>
+
+<ul>
+<li> LinkedIn profile: <a href="http://linkedin.com/in/markfussell">http://linkedin.com/in/markfussell</a></li>
+<li> Primary Book: <a href="http://SlumsOfPaloAlto.com">http://SlumsOfPaloAlto.com</a></li>
+<li> Teaching others (kids) how to publish: <a href="http://MinimalBuyableBook.com">http://MinimalBuyableBook.com</a></li>
+<li> Going to the US Open in Tennis: <a href="http://SupersonicFox.com">http://SupersonicFox.com</a></li>
+<li> Helping sports instructors: <a href="http://InsanelyGreatTennis.com">http://InsanelyGreatTennis.com</a></li>
+<li> Helping farmers: <a href="http://FullOfLifeFood.com">http://FullOfLifeFood.com</a></li>
+<li> &hellip;</li>
+</ul>
+
+
+<p>And now, there is this site, which will transform a community for the better while making investors a lot of money.</p>
+]]></content>
+  </entry>
   
 </feed>
