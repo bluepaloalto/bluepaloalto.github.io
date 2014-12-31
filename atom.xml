@@ -4,7 +4,7 @@
   <title><![CDATA[Blue Palo Alto]]></title>
   <link href="http://bluepaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://bluepaloalto.github.io/"/>
-  <updated>2014-12-29T18:14:54-08:00</updated>
+  <updated>2014-12-31T08:46:57-08:00</updated>
   <id>http://bluepaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark L. Fussell]]></name>
@@ -12,17 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Interest? Kickstarter!]]></title>
-    <link href="http://bluepaloalto.github.io/blog/interest-kickstarter/"/>
-    <updated>2014-12-29T15:17:00-08:00</updated>
-    <id>http://bluepaloalto.github.io/blog/interest-kickstarter</id>
-    <content type="html"><![CDATA[<p>There is now a Kickstarter at: <a href="https://www.kickstarter.com/projects/761729676/blue-palo-alto">https://www.kickstarter.com/projects/761729676/blue-palo-alto</a></p>
-
-<p>This is to gauge interest in the whole idea, and to enable people to participate in the transformation/revitalization.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Problem! Opportunity!]]></title>
