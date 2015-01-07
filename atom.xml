@@ -4,7 +4,7 @@
   <title><![CDATA[Blue Palo Alto]]></title>
   <link href="http://bluepaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://bluepaloalto.github.io/"/>
-  <updated>2015-01-07T09:05:05-08:00</updated>
+  <updated>2015-01-07T09:07:56-08:00</updated>
   <id>http://bluepaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark L. Fussell]]></name>
@@ -15,10 +15,11 @@
   
   <entry>
     <title type="html"><![CDATA[Blu!]]></title>
-    <link href="http://bluepaloalto.github.io/blog/site-launch/"/>
+    <link href="http://bluepaloalto.github.io/blog/blu/"/>
     <updated>2014-12-19T15:17:00-08:00</updated>
-    <id>http://bluepaloalto.github.io/blog/site-launch</id>
-    <content type="html"><![CDATA[<p>Yesterday I visited <a href="http://BluHomes.com/">http://BluHomes.com/</a>&rsquo;s factory and sample house in Vallejo.  Basically this was the culmination of an idea / venture that
+    <id>http://bluepaloalto.github.io/blog/blu</id>
+    <content type="html"><![CDATA[<p>Yesterday I visited <a href="http://BluHomes.com/">http://BluHomes.com/</a>&rsquo;s factory and sample house in Vallejo.  Basically this was the
+culmination of an idea / venture that
 was brewing in my head.  With this blog, I will start describing the venture / opportunity for investors to consider and also
 as a real-time example of a &lsquo;hyper-startup&rsquo;: a startup executing so fast and furiously that it will make more money than
 anyone could imagine in less time and with fewer people than seems possible.</p>
